@@ -1,3 +1,3 @@
 # Pinkilo
 
-(pinkilo.org)[https://pinkilo.org]
+[pinkilo.org](https://pinkilo.org)
