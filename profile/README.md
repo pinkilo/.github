@@ -1,4 +1,4 @@
 ![Pinkilo Logo](https://www.pinkilo.com/logo.png)
-we create experiences.
+we craft experiences.
 
 [pinkilo.com](https://pinkilo.com)
