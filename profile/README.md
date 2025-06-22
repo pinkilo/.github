@@ -1,4 +1,4 @@
 ![Pinkilo Logo](https://www.pinkilo.com/logo.png)
-we craft experiences.
+ambition, digitally crafted.
 
 [pinkilo.com](https://pinkilo.com)
